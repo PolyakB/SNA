@@ -1,0 +1,11 @@
+statemachine.c:20:6:StateMachine_Init	24	static
+statemachine.c:26:6:WaitingForCommand	16	static
+statemachine.c:31:6:GettingStartFrequency	16	static
+statemachine.c:36:6:GettingStopFrequency	16	static
+statemachine.c:41:6:GettingResolution	16	static
+statemachine.c:46:6:StartMeasurement	16	static
+statemachine.c:55:6:Measuring	32	static
+statemachine.c:91:6:CalibrationOpen	16	static
+statemachine.c:96:6:CalibrationShort	16	static
+statemachine.c:101:6:CalibrationThrough	16	static
+statemachine.c:106:6:Calibration50Ohm	16	static
